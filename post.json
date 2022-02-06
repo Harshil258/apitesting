@@ -1,9 +1,12 @@
 {
   "aboutads": [
     {
-      "googlebanner": "sdfgsd",
-      "googleinterstitial": "dsgsdgsdg",
-      "googlenative": "fgsdfg"
+      "googlebanner": "ca-app-pub-3940256099942544/6300978111",
+      "googleinterstitial": "	ca-app-pub-3940256099942544/1033173712",
+      "googlenative": "	ca-app-pub-3940256099942544/2247696110",
+      "disclaimer" : "rhgfdh",
+      "appnextid" : "rhgfdh",
+      "googleornot" : true
     }
   ],
   "watches": [
@@ -25,7 +28,7 @@
       "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
     },
     {
-      "Name": "Tiansinichi17",
+      "Name": "18004195959",
       "Features": {
         "Battery": true,
         "Date": true,
@@ -38,8 +41,8 @@
         "24 Hours format": true
       },
       "Developer": "",
-      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1643172760_4f799caefb.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Tiansinichi17.bin"
+      "giflink": "https://harshil258.github.io/apitesting/watch%20faces/1643276077_e42cb52bd2.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
     },
     {
       "Name": "18004195959",
@@ -54,7 +57,7 @@
         "Digital": true,
         "24 Hours format": true
       },
-      "Developer": "Nixie tube",
+      "Developer": "",
       "giflink": "https://harshil258.github.io/apitesting/watch%20faces/1643276077_e42cb52bd2.gif",
       "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
     },
