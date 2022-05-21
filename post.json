@@ -4,14 +4,14 @@
       "googlebanner": "ca-app-pub-3940256099942544/6300978111",
       "googleinterstitial": "ca-app-pub-3940256099942544/1033173712",
       "googlenative": "ca-app-pub-3940256099942544/2247696110",
-      "disclaimer" : "rhgfdh",
-      "appnextid" : "rhgfdh",
-      "googleornot" : true
+      "disclaimer": "rhgfdh",
+      "appnextid": "rhgfdh",
+      "googleornot": true
     }
   ],
   "watches": [
     {
-      "Name": "0213585555",
+      "Name": "TJKENLLA",
       "Features": {
         "Battery": true,
         "Date": true,
@@ -23,29 +23,63 @@
         "Digital": true,
         "24 Hours format": true
       },
-      "Developer": "",
-      "giflink": "https://harshil258.github.io/apitesting/watch%20faces/1643276077_e42cb52bd2.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/0213585555.bin"
+      "Developer": "TJKENLLA",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1651604819_012e8be34d.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/TJKENLLA.bin"
     },
     {
-      "Name": "18004195959",
+      "Name": "tristan0824",
       "Features": {
         "Battery": true,
         "Date": true,
         "Day": true,
-        "Steps": true,
+        "Steps": false,
         "Weather": true,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "tristan0824",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1651676449_9eedfebd18.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/tristan0824.bin"
+    },
+    {
+      "Name": "aingerun",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
         "Pulse": false,
         "Distance": false,
         "Digital": true,
-        "24 Hours format": true
+        "24 Hours format": false
       },
-      "Developer": "",
-      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1651836879_e58f6f6c1d.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
+      "Developer": "aingerun",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1651736288_52034063aa.png",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aingerun.bin"
     },
     {
-      "Name": "1650565250_ebd5ce129b",
+      "Name": " BIFAN",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": " BIFAN",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652513218_6f023c87dc.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/ BIFAN.bin"
+    },
+    {
+      "Name": "aishbi",
       "Features": {
         "Battery": true,
         "Date": true,
@@ -55,45 +89,11 @@
         "Pulse": true,
         "Distance": true,
         "Digital": true,
-        "24 Hours format": true
+        "24 Hours format": false
       },
-      "Developer": "",
-      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1650565250_ebd5ce129b.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
-    },
-    {
-      "Name": "18004195959",
-      "Features": {
-        "Battery": true,
-        "Date": true,
-        "Day": true,
-        "Steps": true,
-        "Weather": true,
-        "Pulse": true,
-        "Distance": true,
-        "Digital": true,
-        "24 Hours format": true
-      },
-      "Developer": "",
-      "giflink": "https://harshil258.github.io/apitesting/watch%20faces/1643276077_e42cb52bd2.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
-    },
-    {
-      "Name": "18004195959",
-      "Features": {
-        "Battery": true,
-        "Date": true,
-        "Day": true,
-        "Steps": true,
-        "Weather": true,
-        "Pulse": true,
-        "Distance": true,
-        "Digital": true,
-        "24 Hours format": true
-      },
-      "Developer": "",
-      "giflink": "https://harshil258.github.io/apitesting/watch%20faces/1643276077_e42cb52bd2.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/nixietube_packed-579846-3fb9f7f0de.bin"
+      "Developer": "aishbi",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652021448_78f152177e.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aishbi.bin"
     }
   ]
 }
