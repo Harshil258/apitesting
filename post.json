@@ -94,6 +94,23 @@
       "Developer": "aishbi",
       "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652021448_78f152177e.gif",
       "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aishbi.bin"
+    },
+    {
+      "Name": "Nike Modular\n",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Nike Modular\n",
+      "giflink": "https://getech2018.github.io/mb5/mb5_1724.gif",
+      "binlink": "http://miwatchfaces.com/files/mb5/mb5_1724.bin"
     }
   ]
 }
