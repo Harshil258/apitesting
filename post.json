@@ -62,7 +62,7 @@
       "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aingerun.bin"
     },
     {
-      "Name": " BIFAN",
+      "Name": " BIFAN",
       "Features": {
         "Battery": true,
         "Date": true,
@@ -74,9 +74,9 @@
         "Digital": true,
         "24 Hours format": false
       },
-      "Developer": " BIFAN",
+      "Developer": " BIFAN",
       "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652513218_6f023c87dc.gif",
-      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/ BIFAN.bin"
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/ BIFAN.bin"
     },
     {
       "Name": "aishbi",
@@ -111,6 +111,23 @@
       "Developer": "Nike Modular\n",
       "giflink": "https://getech2018.github.io/mb5/mb5_1724.gif",
       "binlink": "http://miwatchfaces.com/files/mb5/mb5_1724.bin"
+    },
+    {
+      "Name": "Birba",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Birba",
+      "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652364905_71d5b713d2.gif",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Birba.bin"
     }
   ]
 }
