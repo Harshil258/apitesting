@@ -138,6 +138,397 @@
       "Developer": "Birba",
       "giflink": "https://amazfitwatchfaces.com/storage/mi-band-6/img/1652364905_71d5b713d2.gif",
       "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Birba.bin"
+    },
+    {
+      "Name": "Dartwagner_MB6_Orange",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Dartwagner",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3718",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Dartwagner.bin"
+    },
+    {
+      "Name": "Rocket_League_B6",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "JerryB86",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3717",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/JerryB86.bin"
+    },
+    {
+      "Name": "Cute_Ice_Bear",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Alonzo",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3689",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Alonzo.bin"
+    },
+    {
+      "Name": "Sunaookami_Shiroko_Blue",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "sashikiwa",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3662",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/sashikiwa.bin"
+    },
+    {
+      "Name": "Rit_Fut_Scossa",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Birba",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3654",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Birba.bin"
+    },
+    {
+      "Name": "Akebi's_Sailor",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": false,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "RayLZ",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3644",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/RayLZ.bin"
+    },
+    {
+      "Name": "Dartwagner_MB6_Red",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": false,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Dartwagner",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3640",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Dart.bin"
+    },
+    {
+      "Name": "Dartwagner_MB6_Red",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": false,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Dartwagner",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3640",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Dart.bin"
+    },
+    {
+      "Name": "Jinjer",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "aishbi",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3632",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aishbi.bin"
+    },
+    {
+      "Name": "thewanyingtic",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "thewanyingtic",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3627",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/thewanyingtic.bin"
+    },
+    {
+      "Name": "Material_You_Black",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "kKsk",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3608",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/kKsk.bin"
+    },
+    {
+      "Name": "Slime_tree",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "SmallGoldFish",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3606",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/SmallGoldFish.bin"
+    },
+    {
+      "Name": "zsoltee69",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "zsoltee69",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3593",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/zsoltee69.bin"
+    },
+    {
+      "Name": "Dark89",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": false,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Darkangel8904",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3589",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Darkangel8904.bin"
+    },
+    {
+      "Name": "PHANTASMAGORIA",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "smokycat",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3642",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/smokycat.bin"
+    },
+    {
+      "Name": "Jinjer",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "aishbiii",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3632",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/aishbiii.bin"
+    },
+    {
+      "Name": "amoled3",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "amoled3",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3613",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/amoled3.bin"
+    },
+    {
+      "Name": "Iga_No_Kabamaru",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": true,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "JerryB86",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3610",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/JerryB861.bin"
+    },
+    {
+      "Name": "Sport_Red",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "Vadiminho_99",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3577",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Vadiminho_99.bin"
+    },
+    {
+      "Name": "The_bruh_war",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "xuanphucdev",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3573",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/xuanphucdev.bin"
+    },
+    {
+      "Name": "Funny_Dog",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": true,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": true,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "xuanphucdev",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3571",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/Funny_Dog.bin"
+    },
+    {
+      "Name": "To_Space",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": false,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": false
+      },
+      "Developer": "To_Space",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3563",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/To_Space.bin"
+    },
+    {
+      "Name": "Lane_Ehhsex",
+      "Features": {
+        "Battery": true,
+        "Date": true,
+        "Day": false,
+        "Steps": true,
+        "Weather": false,
+        "Pulse": true,
+        "Distance": false,
+        "Digital": true,
+        "24 Hours format": true
+      },
+      "Developer": "SadFaceMan",
+      "giflink": "https://amazfitwatchfaces.com/mi-band-6/view/3526",
+      "binlink": "https://harshil258.github.io/apitesting/watch%20faces/SadFaceMan.bin"
     }
   ]
 }
