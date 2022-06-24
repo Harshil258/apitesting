@@ -4,21 +4,21 @@
       "ADSON": true,
       "pollfishonornot": false,
       "isgoogle": false,
-      "facebookbanner": "715377133248652_726987425420956",
-      "facebookinterstitial": "715377133248652_726988212087544",
-      "facebooknative": "715377133248652_726988772087488",
+      "facebookbanner": "719916885976540_719917352643160",
+      "facebookinterstitial": "719916885976540_719917409309821",
+      "facebooknative": "719916885976540_719917492643146",
       "disclaimer": "-  This app is made by Harshil Vekariya. \n- We only provide information to readers and visitors that are available in government public domians.\n- We are not any official partner of the Government or a linked with any way with government. We just show their website in our application as       webview format.\n- We do not own any website available in app.\n- This application is very usefull for indian people to find the best digital servie in their state or city.\n- We do not affiliated with any government entity, services or person.\n-   we don't own any copyrights of images or details used in this app. all the credits goes to their creator. our app doesn't collect any information from users.\n-   we are just providing information that is already available on the internet publicly.\n-   if you have any problem then feel free to contact us at wefoyyou29@gmail.com. \nThank you.",
-      "appnextid": "769d3931-f2ca-46cb-bd20-02687e9ed672",
-      "maxbanner": "af6d541d6a2ec8ba",
+      "appnextid": "",
+      "maxbanner": "0a831feb5d112583",
       "nativeclick":2,
-      "maxinterstitial": "e83684e7968b4428",
-      "maxnative": "6fe2a083301f6afb",
-      "maxrewarded": "10150143a5a9df9a",
-      "interstitialfrequancy": 3,
+      "maxinterstitial": "1b391eead416858a",
+      "maxnative": "aa9532c43985b328",
+      "maxrewarded": "sgsdgsdgsdg",
+      "interstitialfrequancy": 1,
       "nativefrequancy": 1,
-      "googlebanner": "ca-app-pub-6760366163890275/9948964404",
-      "googleinterstitial": "ca-app-pub-6760366163890275/8891281023",
-      "googlenative": "ca-app-pub-6760366163890275/8312696522"
+      "googlebanner": "ca-app-pub-3940256099942544/6300978111",
+      "googleinterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "googlenative": "ca-app-pub-3940256099942544/2247696110"
     }
   ]
 }
